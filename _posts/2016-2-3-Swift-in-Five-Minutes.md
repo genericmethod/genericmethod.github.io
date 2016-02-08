@@ -4,25 +4,25 @@ title: "Learn Swift in Five Minutes!"
 published: true
 ---
 
-### Lets Do this !
+### Ok, maybe 10 minutes.
 
----
-language: swift
-contributors:
-  - ["Grant Timmerman", "http://github.com/grant"]
-  - ["Christopher Bess", "http://github.com/cbess"]
-  - ["Joey Huang", "http://github.com/kamidox"]
-  - ["Anthony Nguyen", "http://github.com/anthonyn60"]
-  - ["Clayton Walker", "https://github.com/cwalk"]
-  - ["Fernando Valverde", "http://visualcosita.xyz"]
-filename: learnswift.swift
----
+Recently came across a programming tutorial website called learnxinyminutes.com. It
+provides a quickreference to various programming languages. Lately I've been looking into iOS
+programming and found the Swift reference quite handy. Reference page can be found (here)
+[https://learnxinyminutes.com/docs/swift/]
 
-Swift is a programming language for iOS and OS X development created by Apple. Designed to coexist with Objective-C and to be more resilient against erroneous code, Swift was introduced in 2014 at Apple's developer conference WWDC. It is built with the LLVM compiler included in Xcode 6+.
+Here's the one page tutorial:
 
-The official [Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329) book from Apple is now available via iBooks.
+Swift is a programming language for iOS and OS X development created by Apple.
+Designed to coexist with Objective-C and to be more resilient against erroneous code, Swift was
+introduced in 2014 at Apple's developer conference WWDC. It is built with the LLVM compiler
+included in Xcode 6+.
 
-See also Apple's [getting started guide](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/), which has a complete tutorial on Swift.
+The official [Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329)
+book from Apple is now available via iBooks.
+
+See also Apple's [getting started guide](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/),
+which has a complete tutorial on Swift.
 
 ```swift
 // import a module
